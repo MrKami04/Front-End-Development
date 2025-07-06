@@ -1,0 +1,33 @@
+property of <body></body> :  id , class, style, title, lang, dir , accesskey,   
+                    tabindex, hidden, draggable , spellcheck,contenteditable, translate , data-*
+
+<body  style="" dir="" lang="" title="">inline These are inline HTML attributes that show output directly.</body>              
+
+
+<marquee> inline property</marquee>:  
+✔️ direction
+✔️ behavior
+✔️ scrollamount
+✔️ scrolldelay
+✔️ bgcolor   (depricated in html5 but still work)  use this correct style="background-color: black;"
+✔️ height
+✔️ width
+✔️ loop
+✔️ hspace, vspace
+✔️ title (tooltip only, not scrolling)
+
+<p>inline property directly effect</p> and <pre> inline property</pre>:
+✔️ style
+✔️ dir
+✔️ title
+✔️ hidden
+
+
+
+<h1> inline property</h1>:
+✔️ style
+✔️ dir
+✔️ title
+✔️ hidden (hides it)
+
+
