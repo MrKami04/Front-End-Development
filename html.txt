@@ -1,13 +1,11 @@
-property of <body></body> :  id , class, style, title, lang, dir , accesskey,   
-                    tabindex, hidden, draggable , spellcheck,contenteditable, translate , data-*
 
 <body  style="" dir="" lang="" title="">inline These are inline HTML attributes that show output directly.</body>              
 
 
 <marquee> inline property</marquee>:  
-✔️ direction
-✔️ behavior
-✔️ scrollamount
+✔️ direction   (values: right, left, top, bottom)
+✔️ behavior  (values: scroll, slide, alternate)
+✔️ scrollamount  (control speed i.g: 1,3,5,10...)
 ✔️ scrolldelay
 ✔️ bgcolor   (depricated in html5 but still work)  use this correct style="background-color: black;"
 ✔️ height
