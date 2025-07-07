@@ -28,4 +28,29 @@
 ✔️ title
 ✔️ hidden (hides it)
 
+<link>  : rel, href, type, media, as 
+
+<ol> </ol>  :  type, start, reversed, class, id, style, title, lang, dir
+
+<li></li>  :  value, class, id, style, title, lang, dir
+
+<ul></ul>  :  class, id, style, title, lang, dir
+
+<a></a>   : href, target, rel, download, type, hreflang, title, class, id, style, lang, dir
+
+<img>  :  src, alt, width, height, title, class, id, style, loading, decoding, referrerpolicy, usemap,
+ ismap, crossorigin, lang, dir
+
+
+<video></video> : src, controls, autoplay, muted, loop, poster, preload, width, height, playsinline, class, id, style,
+ title, lang, dir, crossorigin
+
+<audio></audio>  : src, controls, autoplay, muted, loop, preload,, class, id, style, title, lang, dir, crossorigin
+
+<iframe></iframe>  :   src, width, height, title, name, allow, allowfullscreen, loading, referrerpolicy, sandbox, 
+class, id, style, lang, dir
+
+<div></div>  :  src, width, height, title, name, allow, allowfullscreen, loading, referrerpolicy, sandbox, 
+class, id, style, lang, dir
+
 
