@@ -53,4 +53,17 @@ class, id, style, lang, dir
 <div></div>  :  src, width, height, title, name, allow, allowfullscreen, loading, referrerpolicy, sandbox, 
 class, id, style, lang, dir
 
+<span></span>   :  `class`, `id`, `style`, `title`, `hidden`, `dir`, `lang`, `tabindex`, 
+`contenteditable`, `draggable`, `spellcheck`, `accesskey`, `role`, `data-*`, `aria-*`,
+and all event attributes like `onclick`, `onmouseover`, `onkeyup`, etc.
+
+<form></form>   :  `action`, `method`, `enctype`, `target`, `autocomplete`, `novalidate`, `name`,
+ `rel`, `accept-charset`.
+
+
+
+
+
+ 
+
 
